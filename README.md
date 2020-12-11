@@ -8,6 +8,17 @@ Due to the short timeline, teamwork will be crucial to the success of this proje
 
 Working in a group enables you to tackle more difficult problems than you'd be able to working alone. In other words, working in a group allows you to **work smart** and **dream big**. Take advantage of it!
 
+## Project Group
+
+- Marina Duarte
+- Madhu Venkidusamy
+- Brain Young
+- Sydney Williams
+
+## Project Design
+
+The objective of this project is to focus on social media usage and how it directly relates to happiness in humans.
+
 ## Project Proposal
 
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
