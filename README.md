@@ -17,7 +17,7 @@ Working in a group enables you to tackle more difficult problems than you'd be a
 
 ## Project Design
 
-The objective of the project will focus on social media usage and how it directly relates to happiness in humans.
+The objective of this project is to focus on social media usage and how it directly relates to happiness in humans.
 
 ## Project Proposal
 
